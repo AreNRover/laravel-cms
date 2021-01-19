@@ -78411,3 +78411,8 @@ readers do not read off random characters that represent icons */
   font-weight: 400;
 }
 
+.router-link-exact-active {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white !important;
+}
+
